@@ -33,6 +33,4 @@ The final dashboard provides a visual summary of the analyzed bike sales data, m
 * **Excel Workbook** — Contains the cleaned data, Pivot Table analysis, and dashboard.
 * **Dashboard Preview** — Image of the completed Excel dashboard.
 
-## Dashboard Preview
-
 ![Bike Sales Dashboard](dashboard-preview.png)
