@@ -1,36 +1,51 @@
 # Bike Sales Data Analysis & Dashboard
 
-A data analysis and dashboard project created using Microsoft Excel to explore customer demographics, income, commute distance, and bike purchasing behavior.
+A data analysis and dashboard project created using Microsoft Excel to explore
+customer demographics, income, commute distance, and bike purchasing behavior.
 
-## Tools Used
+## 🛠️ Tools Used
 
-* Microsoft Excel
-* Pivot Tables
-* Data Cleaning
-* Data Analysis
-* Dashboard Visualization
+- Microsoft Excel
+- Pivot Tables
+- Data Cleaning
+- Data Analysis
+- Dashboard Visualization
 
-## Project Overview
+## 📊 Project Overview
 
-The project involved cleaning and organizing bike sales data, analyzing the data using Pivot Tables, and presenting key findings through an interactive Excel dashboard.
+The project involved cleaning and organizing bike sales data, analyzing the
+data using Pivot Tables, and presenting key findings through an interactive
+Excel dashboard.
 
-## Analysis
+## 🔎 Analysis
 
-The analysis explores relationships between bike purchases and various customer characteristics, including:
+The analysis explores relationships between bike purchases and various
+customer characteristics, including:
 
-* Gender
-* Income
-* Home Ownership
-* Commute Distance
-* Age Group
+- Gender
+- Income
+- Home Ownership
+- Commute Distance
+- Age Group
 
-## Dashboard
+## 📁 Workbook Structure
 
-The final dashboard provides a visual summary of the analyzed bike sales data, making the results easier to interpret and compare.
+The Excel workbook contains the following:
 
-## Project Files
+- **Bike Buyers** — Original dataset
+- **Working Sheet** — Cleaned and processed data
+- **Pivot Table** — Data analysis using Pivot Tables
+- **Dashboard** — Interactive Excel dashboard presenting key findings
 
-* **Excel Workbook** — Contains the cleaned data, Pivot Table analysis, and dashboard.
-* **Dashboard Preview** — Image of the completed Excel dashboard.
+## 📈 Dashboard
 
-![Bike Sales Dashboard](dashboard-preview.png)
+The final dashboard provides a visual summary of the analyzed bike sales
+data, making the results easier to interpret and compare.
+
+![Bike Sales Dashboard](excel_dashboard.png)
+
+## 📂 Project Files
+
+- **Bike_Sales_Data_Analysis_Dashboard.xlsx** — Excel workbook containing
+  the original data, cleaned data, Pivot Table analysis, and dashboard.
+- **excel_dashboard.png** — Preview of the completed dashboard.
