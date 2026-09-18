@@ -3,7 +3,7 @@
 A data analysis and dashboard project created using Microsoft Excel to explore
 customer demographics, income, commute distance, and bike purchasing behavior.
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Skills
 
 - Microsoft Excel
 - Pivot Tables
